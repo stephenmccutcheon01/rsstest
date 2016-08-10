@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 21:42:07 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[RAF helicopter fire on Snowdonia peak after technical issue]]></title>
+            <description><![CDATA[An RAF helicopter bursts into flames on a Snowdonia peak after being forced to land due to a technical issue.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-north-west-wales-37023986</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-north-west-wales-37023986</guid>
+            <pubDate>Mon, 08 Aug 2016 16:59:08 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/15614/production/_90727578_crashsitepic.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RAF helicopter fire on Snowdonia peak after technical issue]]></title>
+            <description><![CDATA[An RAF helicopter bursts into flames on a Snowdonia peak after being forced to land due to a technical issue.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-north-west-wales-37023986</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-north-west-wales-37023986</guid>
+            <pubDate>Tue, 09 Aug 2016 16:59:08 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/15614/production/_90727578_crashsitepic.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man dies following Ashton-under-Lyne house explosion]]></title>
+            <description><![CDATA[A man dies following a suspected gas explosion at a family home in Greater Manchester.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-37029281</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-37029281</guid>
+            <pubDate>Tue, 09 Aug 2016 21:18:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18328/production/_90721199_blastscene_gmfrs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life thriving on UK's biggest underwater mountains]]></title>
+            <description><![CDATA[A deep-sea expedition discovers a remarkable array of life on the UK's tallest underwater mountains.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-36806038</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-36806038</guid>
+            <pubDate>Tue, 09 Aug 2016 17:06:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14F28/production/_90400858_dive270_dsc00454.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 4, dies after Old Park Wood swimming pool injury]]></title>
+            <description><![CDATA[Four-year-old boy injured in "incident" at a holiday park swimming pool in Cumbria dies, police say]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-cumbria-37027684</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-cumbria-37027684</guid>
+            <pubDate>Tue, 09 Aug 2016 18:22:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5E27/production/_90730142_mediaitem90728371.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man jailed for shopkeeper's murder]]></title>
+            <description><![CDATA[A 32-year-old man is jailed for a minimum of 27 years for murdering Glasgow shopkeeper Asad Shah in a religiously-motivated attack.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37021385</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37021385</guid>
+            <pubDate>Tue, 09 Aug 2016 10:54:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9DE6/production/_90722404_mediaitem90722403.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duke of Westminster dies aged 64]]></title>
+            <description><![CDATA[Billionaire landowner the Duke of Westminster dies aged 64, his estate says.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37029915</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37029915</guid>
+            <pubDate>Tue, 09 Aug 2016 21:41:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0F53/production/_90732930_mediaitem90732775.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Corbyn team accuses Tom Watson in Trotsky row]]></title>
+            <description><![CDATA[Jeremy Corbyn's campaign accuses Tom Watson of "peddling baseless conspiracy theories" after he claimed Labour was being infiltrated by "Trotsky entryists".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37022656</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37022656</guid>
+            <pubDate>Tue, 09 Aug 2016 20:46:54 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/6A2E/production/_90728172_mediaitem90724014.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Theresa May presses Iran over detained British mother]]></title>
+            <description><![CDATA[Theresa May urges Iran's president to resolve the case of British mother Nazanin Zaghari-Ratcliffe, who has been detained in Tehran since April.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37027143</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37027143</guid>
+            <pubDate>Tue, 09 Aug 2016 17:05:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/163D/production/_89639650_nazanin2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Train window death man Simon Brown 'was a railway fanatic']]></title>
+            <description><![CDATA[A man killed when he apparently leaned out of a train window and was hit on the head was a life-long railway fanatic who worked in the industry.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-bristol-37024919</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-bristol-37024919</guid>
+            <pubDate>Tue, 09 Aug 2016 16:02:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B920/production/_90729374_mediaitem90729372.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Operation Midland cost £2.5m, says Met Police]]></title>
+            <description><![CDATA[The Metropolitan Police confirms that one of its high-profile child sexual abuse investigations, which closed in March without charges, cost £2.5m in total.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37027144</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37027144</guid>
+            <pubDate>Tue, 09 Aug 2016 19:05:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/161F5/production/_90731609_newscotlandyard2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Catholic priest admits seven charges of child sex abuse]]></title>
+            <description><![CDATA[A former children's home worker and Catholic priest pleads guilty to a string of historical child sex abuse charges.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-37027260</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-37027260</guid>
+            <pubDate>Tue, 09 Aug 2016 19:03:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A0FD/production/_90731214_l271-98philiptemple.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man held over burglary bid at Wayne Rooney's home]]></title>
+            <description><![CDATA[A man is arrested on suspicion of attempted burglary after Wayne Rooney's home was allegedly targeted while he was playing in his testimonial match at Old Trafford.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-37026886</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-37026886</guid>
+            <pubDate>Tue, 09 Aug 2016 19:03:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5346/production/_90681312_mediaitem90681311.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[House explosion: 'The bang lifted me from the floor']]></title>
+            <description><![CDATA[At least 10 people were injured in a suspected gas explosion at a house in Greater Manchester.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37026329</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37026329</guid>
+            <pubDate>Tue, 09 Aug 2016 20:53:58 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/6345/production/_90731452_mediaitem90731449.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diver Dan Goodfellow jokes about mother's twitter use]]></title>
+            <description><![CDATA[Olympic diver Daniel Goodfellow jokes about his mother's twitter use.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37026326</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37026326</guid>
+            <pubDate>Tue, 09 Aug 2016 18:06:09 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/10877/production/_90730776_mediaitem90730774.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Britain's tallest mountain is underwater]]></title>
+            <description><![CDATA[Scientists from Plymouth University have visited the UK's tallest mountains - over 100 metres under the sea.]]></description>
+            <link>http://www.bbc.co.uk/news/health-36797990</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-36797990</guid>
+            <pubDate>Tue, 09 Aug 2016 17:03:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15F2A/production/_90389898_dive281_dsc01301.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Four-year-old watched my son's birth']]></title>
+            <description><![CDATA[Vivien Pettitt, who let her four-year-old daughter Jessica watch her son Luke's arrival, tells the Victoria Derbyshire programme why she chose to make the birth a family affair.]]></description>
+            <link>http://www.bbc.co.uk/news/health-37021315</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-37021315</guid>
+            <pubDate>Tue, 09 Aug 2016 09:59:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14840/production/_90723048_mediaitem90722462.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Island retreat for sale on River Avon in Worcestershire]]></title>
+            <description><![CDATA[A house and island on the River Avon in Worcestershire, which can only be accessed by boat, are being sold at public auction.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-hereford-worcester-37012091</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-hereford-worcester-37012091</guid>
+            <pubDate>Tue, 09 Aug 2016 07:13:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/182EB/production/_90715099_p0440krq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harbour seals may face survival battle]]></title>
+            <description><![CDATA[The Kent coast is home to one of the country's largest harbour seal colonies but they could be facing a battle for survival.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-kent-37025001</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-kent-37025001</guid>
+            <pubDate>Tue, 09 Aug 2016 16:58:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17BEE/production/_90726279_mediaitem90726278.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is cupping and does it work?]]></title>
+            <description><![CDATA[A number of Olympians have been spotted covered in large red dots as a result of cupping - said to be an ancient form of Chinese medicine that promotes blood flow.]]></description>
+            <link>http://www.bbc.co.uk/news/health-37024533</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-37024533</guid>
+            <pubDate>Tue, 09 Aug 2016 12:06:32 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/7E60/production/_90725323_mediaitem90725319.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[Britain's most-watched news channel, delivering breaking news and analysis all day, every day.]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 16 Mar 2016 12:34:37 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://news.bbcimg.co.uk/media/images/48351000/gif/_48351569_640x360-news.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Young to dance on Strictly Come Dancing]]></title>
+            <description><![CDATA[Will Young is the second celebrity to be announced for this year's Strictly Come Dancing line-up.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-37024094</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-37024094</guid>
+            <pubDate>Tue, 09 Aug 2016 14:56:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7564/production/_90725003_will_young_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen Victoria's embroidered silk stockings sell for £220]]></title>
+            <description><![CDATA[A pair of 170-year-old silk stockings once owned by Queen Victoria go under the hammer.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-tyne-37013567</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-tyne-37013567</guid>
+            <pubDate>Tue, 09 Aug 2016 14:05:42 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/BBA9/production/_90714084_mediaitem90714083.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family viewing]]></title>
+            <description><![CDATA[Jamie Oliver and his wife Jools announced the birth of their fifth child over social media. But along with the pictures of the little bundle came the news that their two eldest daughters were there to watch their mum give birth.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37020059</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37020059</guid>
+            <pubDate>Tue, 09 Aug 2016 14:47:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0386/production/_90720900_mediaitem90720899.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A scary place']]></title>
+            <description><![CDATA[One in three families is unable to afford their rent or mortgage for more than a month after losing their job. Single mother Karen Lucas says losing her job will affect her for "years to come".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-37020211</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-37020211</guid>
+            <pubDate>Tue, 09 Aug 2016 12:09:38 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/D838/production/_90725355_karen_2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OlympicNan]]></title>
+            <description><![CDATA[Adam Peaty's Olympic success has not only made him a star, but his grandmother is on her way to becoming a national treasure.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-37009411</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-37009411</guid>
+            <pubDate>Tue, 09 Aug 2016 07:02:00 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/2617/production/_90715790_hi034469887.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality check]]></title>
+            <description><![CDATA[Tuesday's report from the Competition and Markets Authority says that the average customer could save £92 by switching current accounts.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37023944</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37023944</guid>
+            <pubDate>Tue, 09 Aug 2016 16:24:44 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16F64/production/_90725049_atm_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Post-Brexit change?]]></title>
+            <description><![CDATA[There's been a rise in reported hate crimes since the EU referendum. Here Polish migrants in Boston, Lincolnshire told us their story.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-37012756</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-37012756</guid>
+            <pubDate>Mon, 08 Aug 2016 23:41:27 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/46D3/production/_90713181_bostonposterimage.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scilly Sergeant]]></title>
+            <description><![CDATA[Serving police officers rarely gain tens of thousands of social media followers, secure a book deal, or influence a TV drama, but for Sergeant Colin Taylor, its all in a days work.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-cornwall-36952165</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-cornwall-36952165</guid>
+            <pubDate>Mon, 08 Aug 2016 23:46:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/694D/production/_90675962_colinonisland.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Q&A: Banking reforms]]></title>
+            <description><![CDATA[Some very big changes are now in the pipeline for the way people use their bank accounts and the way banks treat their customers.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37023481</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37023481</guid>
+            <pubDate>Tue, 09 Aug 2016 15:08:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/120B2/production/_86260937_gettyimages-124737703.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bottlenose bad boys]]></title>
+            <description><![CDATA[The antics of a group of young male bottlenose dolphins in the Moray Firth have led to them earning the nickname the "The Bad Boys Club".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-highlands-islands-37009343</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-highlands-islands-37009343</guid>
+            <pubDate>Mon, 08 Aug 2016 23:13:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/106F0/production/_90721376_d5e2c25c-38ba-4c16-8b85-444132346ccd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ancient bones]]></title>
+            <description><![CDATA[Skulls and bones stored at a church date from 1250 to as recently as 1900, radio carbon dating tests find.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-northamptonshire-36989717</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-northamptonshire-36989717</guid>
+            <pubDate>Mon, 08 Aug 2016 23:36:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D3A4/production/_90708145_bones1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mysterious marks]]></title>
+            <description><![CDATA[A number of Olympians - including the most decorated Olympic athlete of all time, Michael Phelps - have been photographed with large red circles on their skin. What are they?]]></description>
+            <link>http://www.bbc.co.uk/news/health-37009240</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-37009240</guid>
+            <pubDate>Tue, 09 Aug 2016 15:39:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BDCE/production/_90709584_034465364-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The £89m man]]></title>
+            <description><![CDATA[Periodic table elements, buildings, stadiums, football clubs - what else can you get for £89m?]]></description>
+            <link>http://www.bbc.co.uk/sport/football/37010962</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/37010962</guid>
+            <pubDate>Tue, 09 Aug 2016 08:27:47 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/E1DE/production/_90722875_gettyimagf.jpg"/>
+        </item>
+    </channel>
+</rss>

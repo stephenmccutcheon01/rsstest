@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="rssTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="rssLink" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://feeds.bbci.co.uk/news/uk/rss.xml</Value>
+    </Setting>
+    <Setting Name="feedDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">feed</Value>
+    </Setting>
+    <Setting Name="feedFileExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

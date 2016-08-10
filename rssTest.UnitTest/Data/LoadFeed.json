@@ -1,0 +1,25 @@
+{
+  "title": "BBC News - UK",
+  "link": "http://www.bbc.co.uk/news/",
+  "description": "BBC News - UK",
+  "items": [
+    {
+      "title": "Rio Olympics 2016: Chris Froome wins bronze in men's time trial",
+      "description": "Great Britain's Chris Froome wins bronze in the Olympic men's individual time trial, won by Swiss Fabian Cancellara.",
+      "link": "http://www.bbc.co.uk/sport/olympics/37037338",
+      "pubDate": "Wed, 10 Aug 2016 18:16:04"
+    },
+    {
+      "title": "TfL defends English test rules amid Uber complaints",
+      "description": "London's transport authority defends its decision to ensure private hire drivers have at least an intermediate level in English",
+      "link": "http://www.bbc.co.uk/news/technology-37038864",
+      "pubDate": "Wed, 10 Aug 2016 18:18:30"
+    },
+    {
+      "title": "Number crunching",
+      "description": "David Sillito gives a guide to the issues about news and its struggle with numbers.",
+      "link": "http://www.bbc.co.uk/news/entertainment-arts-37039294",
+      "pubDate": "Wed, 10 Aug 2016 17:51:58"
+    }
+  ]
+}
