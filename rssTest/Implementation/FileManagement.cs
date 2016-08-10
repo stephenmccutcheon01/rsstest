@@ -251,6 +251,11 @@ namespace rssTest.Implementation
 
             var searchpath = searchPathBuilder.ToString();
 
+            if (Directory.Exists(@_feeddir) == false)
+            {
+                Directory.CreateDirectory(@_feeddir);
+            }
+
             //Get all the files which reside in the Feed directory
             //which match the search path
             return Directory.GetFiles(@_feeddir, searchpath);
